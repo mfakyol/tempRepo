@@ -1,0 +1,81 @@
+[
+  {
+    "id": "1",
+    "name": "Baden-Württemberg",
+    "code": "bw"
+  },
+  {
+    "id": "2",
+    "name": "Bayern",
+    "code": "by"
+  },
+  {
+    "id": "3",
+    "name": "Berlin",
+    "code": "be"
+  },
+  {
+    "id": "4",
+    "name": "Brandenburg",
+    "code": "bb"
+  },
+  {
+    "id": "5",
+    "name": "Bremen",
+    "code": "hb"
+  },
+  {
+    "id": "6",
+    "name": "Hamburg",
+    "code": "hh"
+  },
+  {
+    "id": "7",
+    "name": "Hessen",
+    "code": "he"
+  },
+  {
+    "id": "8",
+    "name": "Mecklenburg-Vorpommern",
+    "code": "mv"
+  },
+  {
+    "id": "9",
+    "name": "Niedersachsen",
+    "code": "ni"
+  },
+  {
+    "id": "10",
+    "name": "Nordrhein-Westfalen",
+    "code": "nw"
+  },
+  {
+    "id": "11",
+    "name": "Rheinland-Pfalz",
+    "code": "rp"
+  },
+  {
+    "id": "12",
+    "name": "Saarland",
+    "code": "sl"
+  },
+  {
+    "id": "13",
+    "name": "Sachsen",
+    "code": "sn"
+  },
+  { "id": "14",
+    "name": "Sachsen-Anhalt",
+    "code": "st"
+  },
+  {
+    "id": "15",
+    "name": "Schleswig-Holstein",
+    "code": "sh"
+  },
+  {
+    "id": "16",
+    "name": "Thüringen",
+    "code": "th"
+  }
+]
